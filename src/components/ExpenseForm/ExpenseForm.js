@@ -14,6 +14,7 @@ function ExpenseForm(props) {
     // })
 
     function titleChangeHandler(event) {
+        console.log(event)
         setEnteredTitle(event.target.value);
         // setUserInput({
         //     ...userInput,
