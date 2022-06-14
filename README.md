@@ -1,1 +1,4 @@
-# Expense Tracker using React.js
+# Expense Tracker using React
+
+## Screenshots 
+![home-page](public/home.png)
